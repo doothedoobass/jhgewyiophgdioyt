@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\GoldBach Catcher\bin\Debug\net9.0-windows\GoldBach Catcher.exe
+C:\Users\HP\source\repos\GoldBach Catcher\bin\Debug\net9.0-windows\GoldBach Catcher.deps.json
+C:\Users\HP\source\repos\GoldBach Catcher\bin\Debug\net9.0-windows\GoldBach Catcher.runtimeconfig.json
+C:\Users\HP\source\repos\GoldBach Catcher\bin\Debug\net9.0-windows\GoldBach Catcher.dll
+C:\Users\HP\source\repos\GoldBach Catcher\bin\Debug\net9.0-windows\GoldBach Catcher.pdb
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach_Catcher.Form1.resources
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.AssemblyInfo.vb
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.dll
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\refint\GoldBach Catcher.dll
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.pdb
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\GoldBach Catcher.genruntimeconfig.cache
+C:\Users\HP\source\repos\GoldBach Catcher\obj\Debug\net9.0-windows\ref\GoldBach Catcher.dll
